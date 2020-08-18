@@ -7,6 +7,7 @@
 h1 {
   text-align: center;
   margin-bottom: 15px;
+  font-size: 175%;
 }
 
 .content {
@@ -20,6 +21,7 @@ div > section {
   position: absolute;
   right: 0;
   text-align: center;
+  font-size: 125%;
   width: 25%;
   background-color: green;
   border: 1px solid black;
